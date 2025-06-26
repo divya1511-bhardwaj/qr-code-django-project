@@ -25,11 +25,6 @@ This project is a Django-based web tool that generates downloadable QR codes for
 
 ---
 
-## 📸 Screenshot
-
-![QR Generator Screenshot](./media/qr_example.png)
-
----
 
 ## 🛠️ Setup Instructions
 
