@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Django
+*.sqlite3
+*.db
+
+# Environments
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Media
+/media/
